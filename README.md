@@ -13,7 +13,7 @@ Take webcam shots from target just sending a malicious link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/napiyo/Radio.active
+git clone https://github.com/napiyo/cambyradio
 cd cambyradio
 bash cambyradio.sh
 ```
